@@ -2,7 +2,61 @@
     box-sizing: border-box;
 }
 
-.grid{
-   height: 23%;
-   width: 23%;
+/* h1{
+    background-color: teal;
+    color: white;
+} */
+
+/* h2{
+    color: teal;
+    height: 30%;
+    width: 50%;
+    margin: 0px 0px 0px 50px;
+} */
+
+.grid, 
+.wrapper{
+   height: 30%;
+   width: 50%;
+   margin: 0px 0px 0px 50px;
 }
+
+h5{
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+.area{
+    width: 40%;
+    margin: 50px 50px 100px 100px;
+    padding: 20px;
+    background-color: #cccccc;
+}
+
+.Form{
+    width: 50%;
+    height: 400px;
+    margin: 20px;
+}
+
+.card-footer{
+    padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #ffffff;
+  color: #cccccc;
+  text-align: center;
+  background: #666666;
+  border-top: 8px solid #4aaaa5;
+  height: 50px;
+}
+
+
+
+body{
+    background-color: #eeee;
+}
+
+
+
